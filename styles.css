@@ -1,0 +1,14 @@
+body {
+  background: #232a34;
+  font-family: 'Open Sans', sans-serif;
+  color: #90b0b1;
+}
+
+h1 {
+  color: #90b0b1;
+}
+
+#container {
+  width: 920px;
+  margin: 0 auto;
+}

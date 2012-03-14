@@ -1,0 +1,13 @@
+<div class="article">
+  {% if item.image %}
+    <a href='{{base}}{{item.url}}'>
+      <span class='thumb' style='background-image:url({{item.image|replace:'.jpg','_m.jpg'}})'></span>
+    </a>
+  {% endif %}
+
+  <small class='date'>
+    {{item.date | date:"%b %d %Y"}}
+  </small>
+  <span class='title'><a href='{{base}}{{item.url}}'>{{item.title}}</a></span>
+  <small>{{item.subtitle}}</small>
+</div>

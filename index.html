@@ -1,0 +1,11 @@
+---
+layout: default
+category: articles
+title: Articles
+---
+<h1>Articles</h1>
+<div class='articles'>
+  {% for item in site.categories.articles limit:40 offset:0 %}
+    {% include article-item.html %}
+  {% endfor %}
+</div>

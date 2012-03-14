@@ -1,0 +1,9 @@
+auto: true
+server: true
+exclude:
+- .gitignore
+- README.md
+columnist:
+  paths:
+  - _posts/articles
+  - _posts/projects
