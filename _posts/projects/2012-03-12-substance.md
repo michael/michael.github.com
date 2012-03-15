@@ -1,7 +1,7 @@
 ---
 title: "Substance"
 subtitle: ""
-layout: "project"
+layout: "undefined"
 category: ""
 permalink: ""
 image: ""
@@ -10,6 +10,8 @@ hidden: "false"
 
 Substance
 ===================
+
+goood.
 
 Great!
 
@@ -20,3 +22,4 @@ crazy
 ====================
 
 First change, ever.
+
