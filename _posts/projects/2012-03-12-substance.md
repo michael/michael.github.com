@@ -1,5 +1,5 @@
 ---
-title: "Substance"
+title: "The Title"
 subtitle: ""
 layout: "undefined"
 category: "blog"
@@ -22,5 +22,6 @@ crazy
 ====================
 
 First change, ever.
+
 
 
