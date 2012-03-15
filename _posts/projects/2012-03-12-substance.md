@@ -2,10 +2,10 @@
 title: "Substance"
 subtitle: ""
 layout: "undefined"
-category: ""
+category: "blog"
 permalink: ""
 image: ""
-hidden: "false"
+hidden: false
 ---
 
 Substance
@@ -22,4 +22,5 @@ crazy
 ====================
 
 First change, ever.
+
 
